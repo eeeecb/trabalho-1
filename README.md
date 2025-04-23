@@ -1,4 +1,4 @@
-# Trabalho
+# Trabalho 1
 
 Este é um projeto simples proposto pelo professor Marcelo Paiva de Sousa.
 
